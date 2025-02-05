@@ -5,7 +5,7 @@ body {
 	font: 100%/1.4 Jazz LET, fantasy;
 }
 .homePage {
-	background: #B2987E;
+	background: #FCBB79;
 }
 .container {
 	width: 960px;
@@ -38,6 +38,7 @@ body {
 	text-align: center;
 }
 .footer {
+	font: 100%/1.4 Brush Script MT, Brush Script Std, cursive;
 	background: #811200;
 	margin: 0px;
 	float: left;
